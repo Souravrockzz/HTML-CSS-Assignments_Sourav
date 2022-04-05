@@ -5,3 +5,12 @@
 width: 100%;
 height: 100%;
 }
+ td {
+    
+    align-items: center;
+    
+  }
+  h1{
+    text-align: center;
+ }
+  
